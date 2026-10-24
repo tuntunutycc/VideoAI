@@ -1,0 +1,17 @@
+models/
+logs/
+outputs/
+uploads/
+*.lock
+
+.venv/
+**/.venv/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+
+MMAudio/weights/
+MMAudio/ext_weights/
+MMAudio/output/
+MMAudio/saves/
+MMAudio/pretrained/
